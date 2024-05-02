@@ -2,7 +2,7 @@
 "name": "Copyright Protectron",
 "description": "Telegram Copyright Protection Bot using Pyrogram formwork",
 "logo": "https://telegra.ph/file/cf64de256775519a9fc9e.jpg",
-"repository": "https://github.com/Vishal-1756/Copyright-ProtectBot",
+"repository": "https://github.com/Viper1x1y/Copyright-ProtectBot",
 "env": {
     "API_ID": {
       "description": "api id get from my.telegram.org/apps",
